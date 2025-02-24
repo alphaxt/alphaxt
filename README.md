@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alphaxt
-- 👀 I’m interested in data anaylist
-- 🌱 I’m currently learning c++,pyhton
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning c++,pyhton,sql
 - 💞️ I’m looking to collaborate on project
-- 📫 How to reach me alphabay.mind@gmail.com
+- 📫 How to reach me pcwork45@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
