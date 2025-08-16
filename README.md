@@ -11,6 +11,13 @@
 
 ---
 
+## 🎓 Education  
+
+🎓 Currently pursuing a **Bachelor's in Data Science** at the **University of Central Punjab (UCP)**.  
+💡 Strengthening my expertise in **machine learning, data analytics, software engineering, and web development**.  
+
+---
+
 ## 🌱 My Current Stack & Interests  
 
 - 🐍 **Languages:** Python, C++, SQL  
@@ -33,5 +40,3 @@
 ## 📫 Let's Connect!  
 
 💌 **Email:** [pcwork45@gmail.com](mailto:pcwork45@gmail.com)  
-
-
