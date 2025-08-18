@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="170" valign="top">
-      <img src="https://github.com/alphaxt/alphaxt/blob/main/me.jpeg" alt="Muhammad Danish" width="160" style="border-radius:50%" />
+      <img src="https://github.com/alphaxt/me/blob/main/me.jpeg" alt="Muhammad Danish" width="160" style="border-radius:50%" />
     </td>
     <td valign="top" style="padding-left: 15px;">
       <h1>👋 Hi, I'm Muhammad Danish</h1>
