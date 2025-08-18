@@ -1,6 +1,6 @@
 <!-- Profile Banner or Picture -->
 <p align="center">
-  <img src="(https://github.com/alphaxt/alphaxt/blob/main/me.jpeg)" alt="Muhammad Danish" width="160" style="border-radius:50%" />
+  <img src="https://github.com/alphaxt/alphaxt/blob/main/me.jpeg" alt="Muhammad Danish" width="160" style="border-radius:50%" />
 </p>
 
 # 👋 Hi, I'm Muhammad Danish
