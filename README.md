@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Muhammad Danish!
+# 👋 Hi, I'm Muhammad Danish
 
 💻 Blockchain Developer | 🌐 Web Developer | 📊 Data Science Enthusiast
 
@@ -6,54 +6,55 @@
 
 ## 🌟 About Me
 
-✨ Passionate and self-driven, I explore the dynamic intersection of **blockchain development**, **web development**, and **data science**.
-⚡ I love building robust, scalable solutions and using data to create intelligent, impactful applications.
-🎨 Always learning and eager to grow my technical skill set and solve real-world problems with technology.
+✨ Passionate and driven technologist at the intersection of **blockchain**, **web development**, and **data science**.
+⚡ Building robust, scalable digital solutions and leveraging data for intelligent impact.
+🎯 Committed to continuous learning and applying tech to solve real-world challenges.
 
 ---
 
 ## 🎓 Education
 
-🎓 Studying **Bachelor’s in Data Science** at the **University of Central Punjab (UCP)**  
-💡 Strengthening expertise in **machine learning**, **data analytics**, **blockchain engineering**, and **web development**.
+- 🎓 Bachelor’s in Data Science — University of Central Punjab (UCP)
+- 💡 Specialized in machine learning, data analytics, blockchain engineering, and full-stack web development.
 
 ---
 
-## 🛠️ Tech Stack & Interests
+## 🛠️ Skills & Tools
 
-- 🐍 **Languages:** Python, C++, SQL, JavaScript
-- 📱 **Web Development:** HTML5, CSS3, React.js, Node.js, MongoDB
-- 🚀 **Blockchain:** Ethereum, Solidity, Smart Contracts
-- 📊 **Data Science:** Data analysis, modeling, deployment
-- 🗄️ **Databases:** MySQL, MongoDB
-- 🎨 **Design & Marketing:** Adobe Creative Suite, digital campaigns
+- **Languages:** Python, C++, JavaScript, SQL
+- **Web Technologies:** React.js, Node.js, HTML5, CSS3, MongoDB
+- **Blockchain:** Ethereum, Solidity, Smart Contracts
+- **Data Science:** Analysis, modeling, deployment
+- **Databases:** MySQL, MongoDB
+- **Design/Marketing:** Adobe Creative Suite, digital strategy
 
 ---
 
-## 🚀 Current Focus
+## ⚡ Professional Focus
 
-🔭 Developing personal and collaborative projects for real-world impact  
-🤝 Open to collaboration in:
+- 🚀 Personal & collaborative projects with tangible impact
+- 🤝 Open to partnership in:
   - Data analysis 📈
-  - Full-stack development 💡
+  - Full-stack apps 💡
   - Blockchain solutions 🔗
-  - Software engineering challenges ⚙️
+  - Tech-driven product innovation 🚀
 
 ---
 
-## 🏆 GitHub Highlights
+## 💼 Portfolio & Online Presence
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide=prs&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+- 🌐 **Website:** [www.alphaweb.store](https://www.alphaweb.store)  
+- 🔗 **LinkedIn:** [linkedin.com/in/muhammad-danish1](https://www.linkedin.com/in/muhammad-danish1/)
 
 ---
 
-## 📫 Let's Connect!
+## 🧩 Key Components & Professional Themes
 
-💌 **Email:** [pcwork45@gmail.com](mailto:pcwork45@gmail.com)  
-🔗 Connect on [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID/)  
-🌐 Portfolio: [mdevelopers.netlify.app](https://mdevelopers.netlify.app)
+- 🧑‍💻 **Open Source Contributor:** Active in collaborative coding, sharing solutions, and improving community projects.
+- 🎤 **Tech Speaker:** Enthusiastic about presenting at meetups, webinars, and writing about emerging topics.
+- 🎓 **Mentorship:** Helping aspiring coders, blockchain enthusiasts, and future data scientists.
+- 🌟 **Project Management:** Agile practices and leading cross-functional teams for timely delivery.
+- 🚀 **Innovation:** Exploring AI, smart contracts, and scalable software design patterns.
 
 ---
 
@@ -62,11 +63,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeillustrator/adobeillustrator-plain.svg" height="30"/>
 </p>
-
