@@ -1,14 +1,18 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alphaxt/me/main/me.jpeg" alt="Muhammad Danish" width="150" height="150" style="border-radius:50%" />
-
-  <h1>👋 Hi, I'm Muhammad Danish</h1>
-  <p>💻 Blockchain Developer&nbsp;|&nbsp;🌐 Web Developer&nbsp;|&nbsp;📊 Data Science Enthusiast</p>
-
-  <p>
-    <a href="https://www.alphaweb.store"><img src="https://img.shields.io/badge/Website-alphaweb.store-orange?style=flat-square" alt="Website"/></a>
-    <a href="https://www.linkedin.com/in/muhammad-danish1/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Danish-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  </p>
-</div>
+<table>
+  <tr>
+    <td width="170" valign="top">
+      <img src="https://github.com/alphaxt/me/blob/main/me.jpeg" alt="Muhammad Danish" width="160" style="border-radius:50%" />
+    </td>
+    <td valign="top" style="padding-left: 15px;">
+      <h1>👋 Hi, I'm Muhammad Danish</h1>
+      <p>💻 Blockchain Developer | 🌐 Web Developer | 📊 Data Scientist</p>
+      <p>
+        <a href="https://www.alphaweb.store"><img src="https://img.shields.io/badge/Website-alphaweb.store-orange?style=flat-square" alt="Website"/></a>
+        <a href="https://www.linkedin.com/in/muhammad-danish1/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Danish-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -19,6 +23,21 @@
 ⚡ Building robust, scalable digital solutions and leveraging data for intelligent impact.
 
 🎯 Committed to continuous learning and applying tech to solve real-world challenges.
+
+---
+
+## 📊 Data Science & Machine Learning
+
+🐍 **Python** is my primary language for data work — from data wrangling to model deployment.
+
+- 🔍 **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn for exploring and communicating insights from raw data
+- 🤖 **Machine Learning:** Building and evaluating models with Scikit-learn — classification, regression, clustering, and feature engineering
+- 🧠 **Deep Learning:** Exploring neural networks with TensorFlow / PyTorch for predictive modeling
+- 📈 **Statistical Modeling:** Hypothesis testing, regression analysis, and data-driven decision-making
+- 🚀 **Model Deployment:** Taking models from notebooks to production-ready APIs and applications
+- 📚 **Continuous Learning:** Constantly exploring new ML techniques, from classical algorithms to modern AI/LLM applications
+
+As a data scientist, I enjoy turning messy, real-world data into models and insights that actually drive decisions — combining strong Python fundamentals with practical, end-to-end delivery.
 
 ---
 
@@ -33,20 +52,23 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
 - **Languages:** Python, C++, JavaScript, SQL
-- **Web Technologies:** React.js, Node.js, HTML5, CSS3, MongoDB
+- **Data Science & ML:** Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch, Matplotlib, Seaborn
+- **Web Technologies:** React.js, Node.js, HTML5, CSS3
 - **Blockchain:** Ethereum, Solidity, Smart Contracts
-- **Data Science:** Analysis, modeling, deployment
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL
 - **Design/Marketing:** Adobe Creative Suite, digital strategy
 
 ---
