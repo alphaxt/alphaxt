@@ -5,7 +5,7 @@
     </td>
     <td valign="top" style="padding-left: 15px;">
       <h1>👋 Hi, I'm Muhammad Danish</h1>
-      <p>💻 Blockchain Developer | 🌐 Web Developer | 📊 Data Scientist</p>
+      <p>📊 Data Scientist | 💻 Blockchain Developer | 🌐 Web Developer  </p>
       <p>
         <a href="https://www.alphaweb.store"><img src="https://img.shields.io/badge/Website-alphaweb.store-orange?style=flat-square" alt="Website"/></a>
         <a href="https://www.linkedin.com/in/muhammad-danish1/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Danish-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -87,8 +87,6 @@ As a data scientist, I enjoy turning messy, real-world data into models and insi
 ## 🧩 Key Professional Themes
 
 - 🧑‍💻 **Open Source Contributor** — Collaborative coder and solution sharer
-- 🎤 **Tech Speaker** — Presenting at meetups, webinars, and tech writeups
-- 🎓 **Mentorship** — Supporting aspiring coders and future data scientists
 - 🌟 **Project Management** — Agile practices and team leadership for timely delivery
 - 🚀 **Innovation** — Exploring AI, smart contracts, and scalable product design
 
