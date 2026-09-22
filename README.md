@@ -90,24 +90,58 @@ I'm a technologist working at the intersection of **data science**, **full-stack
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🚀 <a href="https://github.com/alphaxt/enterprise-ai-suite">Enterprise AI & Platform Suite</a></h3>
+      <p>Production monorepo: <b>DocuMind RAG</b> (hybrid retrieval & citations), <b>PulsePredict BI</b> (0.89 ROC-AUC ML), <b>VisionGuard AI</b> (YOLOv8 & geofencing), and <b>ScrapeFlow</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/GenAI-8E75B2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Computer%20Vision-F79F1F?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🌾 <a href="https://github.com/alphaxt/kisanconnect">KisanConnect</a></h3>
       <p>Full-stack <b>Next.js</b> agri-platform for Pakistani farmers — live mandi prices, AI crop disease detection, weather intelligence & a marketplace.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI-F79F1F?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧊 <a href="https://github.com/alphaxt/smartshelf-ai">SmartShelf AI</a></h3>
-      <p>AI fridge & pantry manager that turns fridge photos into recipes, shopping lists & low-waste meal plans using <b>Gemini Vision</b>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Live%20Demo-brightgreen?style=flat-square" />
       </p>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/alphaxt/data-science-and-sql-suite">Data Science & SQL Suite</a></h3>
+      <p>Full data engineering lifecycle: <b>35-table MySQL database</b> (3NF/BCNF, procedures, triggers), live <b>Streamlit NLP spam classifier</b>, and predictive ML models.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ <a href="https://github.com/alphaxt/cpp-oop-systems-suite">C++ Systems Suite</a></h3>
+      <p>Unified C++17 collection: <b>Terminal Chess Engine</b>, <b>Hospital Appointment</b>, <b>Hotel Management</b> (persistent file I/O), and <b>Student Custom Data Structures</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+        <img src="https://img.shields.io/badge/OOP-F79F1F?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data%20Structures-purple?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 <a href="https://github.com/alphaxt/LexiLens">LexiLens</a></h3>
+      <p>Privacy-first consumer contract audit platform built with <b>NestJS & Next.js</b>, versioned Zod contracts, and secure OIDC authentication.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3>☁️ <a href="https://github.com/alphaxt/devops-capstone-project">DevOps Capstone</a></h3>
       <p>Full-stack <b>Node.js + PostgreSQL</b> expense tracker with ready-to-use <b>Docker, Kubernetes & AWS Terraform</b> deployments.</p>
@@ -115,24 +149,18 @@ I'm a technologist working at the intersection of **data science**, **full-stack
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 <a href="https://github.com/alphaxt/campuslens-ai">CampusLens AI</a></h3>
-      <p>AI-powered campus issue intelligence & resolution platform for detecting, triaging and resolving student-reported problems.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/AI-F79F1F?style=flat-square" />
+        <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/alphaxt/data-science-projects">Data Science Projects</a></h3>
-      <p>Four end-to-end DS builds: Iris classification, unemployment analysis, car price prediction & a live <b>Streamlit</b> spam detector.</p>
+      <h3>🎨 <a href="https://github.com/alphaxt/frontend-ui-showcase">Frontend UI Showcase</a></h3>
+      <p>Curated responsive web applications and storefronts: <b>Netflix Streaming Clone</b>, <b>Amazon Marketplace</b>, and <b>Gaming Storefront</b>.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -141,6 +169,7 @@ I'm a technologist working at the intersection of **data science**, **full-stack
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Mobile-00D2D3?style=flat-square" />
       </p>
     </td>
   </tr>
