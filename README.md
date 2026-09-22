@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/alphaxt/me/main/me.jpg" alt="Muhammad Danish" width="150" style="border-radius:50%" />
+<img src="https://raw.githubusercontent.com/alphaxt/me/me.jpg" alt="Muhammad Danish" width="150" style="border-radius:50%" />
 
 <br/>
 
