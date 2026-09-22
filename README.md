@@ -21,20 +21,12 @@
 <!-- ===================== ABOUT ===================== -->
 ## 🚀 About Me
 
-```python
-class MuhammadDanish:
-    def __init__(self):
-        self.role        = ["Data Scientist", "Full-Stack Developer", "Blockchain Engineer"]
-        self.education   = "B.S. Data Science @ University of Central Punjab (UCP)"
-        self.languages   = ["Python", "C++", "JavaScript", "TypeScript", "SQL", "Dart"]
-        self.focus       = ["AI / LLM apps", "End-to-end products", "DevOps & Cloud"]
-        self.motto       = "Turn messy, real-world data into products that make decisions."
-```
-
 I'm a technologist working at the intersection of **data science**, **full-stack web development**, and **blockchain**. I enjoy taking ideas from a notebook or a Figma sketch all the way to a deployed, production-ready product — with clean code, real infrastructure, and thoughtful UX along the way.
 
+- 🎓 **B.S. Data Science** @ University of Central Punjab (UCP)
 - 🔭 Currently building **AI-powered applications** (computer vision, LLMs) and **full-stack platforms**
 - 🌱 Deepening my skills in **MLOps, cloud deployment (AWS), and scalable architecture**
+- 💻 Comfortable across **Python, TypeScript, JavaScript, C++, SQL & Dart**
 - 🤝 Open to collaboration on **data, full-stack, and blockchain** projects
 - ⚡ Fun fact: I like shipping — a project isn't done until it's live
 
