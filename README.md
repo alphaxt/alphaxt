@@ -6,16 +6,11 @@
 </a>
 
 <a href="https://github.com/alphaxt">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F79F1F&center=true&vCenter=true&width=650&lines=Turning+data+into+decisions;Building+full-stack+products+end-to-end;Shipping+AI-powered+applications;Exploring+blockchain+%26+smart+contracts" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F79F1F&center=true&vCenter=true&width=650&lines=Turning+data+into+decisions;Building+full-stack+products+end-to-end;Shipping+AI-powered+applications;Exploring+blockchain+%26+smart+contracts" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/alphaxt/me/me.jpg" alt="Muhammad Danish" width="150" style="border-radius:50%" />
-
-<br/>
-
-<a href="https://www.alphaweb.store"><img src="https://img.shields.io/badge/Website-alphaweb.store-F79F1F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <a href="https://www.linkedin.com/in/muhammad-danish1/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Danish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/alphaxt"><img src="https://img.shields.io/badge/GitHub-alphaxt-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/>
@@ -103,62 +98,58 @@ I'm a technologist working at the intersection of **data science**, **full-stack
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌾 KisanConnect</h3>
-      <p align="center">
-        <a href="https://github.com/alphaxt/kisanconnect">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alphaxt&repo=kisanconnect&theme=react&border_color=F79F1F" />
-        </a>
-      </p>
+      <h3>🌾 <a href="https://github.com/alphaxt/kisanconnect">KisanConnect</a></h3>
       <p>Full-stack <b>Next.js</b> agri-platform for Pakistani farmers — live mandi prices, AI crop disease detection, weather intelligence & a marketplace.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-F79F1F?style=flat-square" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧊 SmartShelf AI</h3>
-      <p align="center">
-        <a href="https://github.com/alphaxt/smartshelf-ai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alphaxt&repo=smartshelf-ai&theme=react&border_color=F79F1F" />
-        </a>
-      </p>
+      <h3>🧊 <a href="https://github.com/alphaxt/smartshelf-ai">SmartShelf AI</a></h3>
       <p>AI fridge & pantry manager that turns fridge photos into recipes, shopping lists & low-waste meal plans using <b>Gemini Vision</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">☁️ DevOps Capstone</h3>
-      <p align="center">
-        <a href="https://github.com/alphaxt/devops-capstone-project">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alphaxt&repo=devops-capstone-project&theme=react&border_color=F79F1F" />
-        </a>
-      </p>
+      <h3>☁️ <a href="https://github.com/alphaxt/devops-capstone-project">DevOps Capstone</a></h3>
       <p>Full-stack <b>Node.js + PostgreSQL</b> expense tracker with ready-to-use <b>Docker, Kubernetes & AWS Terraform</b> deployments.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎓 CampusLens AI</h3>
-      <p align="center">
-        <a href="https://github.com/alphaxt/campuslens-ai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alphaxt&repo=campuslens-ai&theme=react&border_color=F79F1F" />
-        </a>
-      </p>
+      <h3>🎓 <a href="https://github.com/alphaxt/campuslens-ai">CampusLens AI</a></h3>
       <p>AI-powered campus issue intelligence & resolution platform for detecting, triaging and resolving student-reported problems.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/AI-F79F1F?style=flat-square" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📊 Data Science Projects</h3>
-      <p align="center">
-        <a href="https://github.com/alphaxt/data-science-projects">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alphaxt&repo=data-science-projects&theme=react&border_color=F79F1F" />
-        </a>
-      </p>
+      <h3>📊 <a href="https://github.com/alphaxt/data-science-projects">Data Science Projects</a></h3>
       <p>Four end-to-end DS builds: Iris classification, unemployment analysis, car price prediction & a live <b>Streamlit</b> spam detector.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📱 FreelanceFlow</h3>
-      <p align="center">
-        <a href="https://github.com/alphaxt/freelanceflow">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alphaxt&repo=freelanceflow&theme=react&border_color=F79F1F" />
-        </a>
-      </p>
+      <h3>📱 <a href="https://github.com/alphaxt/freelanceflow">FreelanceFlow</a></h3>
       <p>Cross-platform <b>Flutter</b> app for freelance project management, client proposals & workflow tracking with responsive UI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
@@ -181,7 +172,7 @@ I'm a technologist working at the intersection of **data science**, **full-stack
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=alphaxt&theme=react&hide_border=true&background=0D1117&ring=F79F1F&fire=F79F1F&currStreakLabel=F79F1F" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=alphaxt&theme=react&hide_border=true&background=0D1117&ring=F79F1F&fire=F79F1F&currStreakLabel=F79F1F" alt="streak"/>
 
 <br/>
 
@@ -210,8 +201,8 @@ I'm a technologist working at the intersection of **data science**, **full-stack
 
 I'm always open to interesting projects and collaboration — whether it's **data**, a **full-stack build**, or a **blockchain** idea.
 
-<a href="https://www.alphaweb.store"><img src="https://img.shields.io/badge/Website-alphaweb.store-F79F1F?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/muhammad-danish1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/alphaxt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
